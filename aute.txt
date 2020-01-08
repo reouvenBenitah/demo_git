@@ -1,2 +1,4 @@
 
 my new txt for git
+
+text text text text txet text
